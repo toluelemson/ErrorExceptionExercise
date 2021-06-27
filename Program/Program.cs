@@ -4,7 +4,7 @@ namespace Program
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
             try
             {
@@ -14,7 +14,7 @@ namespace Program
             catch (B obj)
             {
                 Console.WriteLine(obj);
-            };
+            }
         }
     }
 
